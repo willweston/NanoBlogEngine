@@ -32,11 +32,12 @@ Download and check the 0.zip for directory structure.
 
 # Credit:
 
-Name: Javascript Editor
-Version: 1.3
-Author: <b> Balakrishnan </b>
-Last Modified Date: 25/Jan/2009
-License: Free
+Name: Javascript Editor 
+Version: 1.3 
+Author: <b> Balakrishnan </b> 
+License: Free 
+
+
 
 
 
