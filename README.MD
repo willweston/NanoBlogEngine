@@ -23,12 +23,8 @@
  * 90 kB free space
 
 Download and check the 0.zip for directory structure.
+Flat file based. 
 
-# Screenshot:
-
-- post.png
-- list.png
-- editor.png
 
 # Credit:
 
