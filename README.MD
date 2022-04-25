@@ -38,9 +38,9 @@ Download and check the 0.zip for directory structure.
 - License: Free 
 
 
+![screenshot](./list.png)
+![screenshot](./post.png)
 ![screenshot](./editor.png)
-![screenshot](./post.png)
-![screenshot](./post.png)
 
 
 
